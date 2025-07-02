@@ -19,7 +19,6 @@ CSS3
 
 JavaScript
 
-jQuery
 
 # 🔧 How to Play
 Press any key to start the game.
